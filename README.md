@@ -5,6 +5,9 @@ A reliable Instagram crawler tool for non-private profiles
 
 Two classes, one for profile page and the other for post page
 
+Required libraries are Selenium, bs4, request, json, pandas. "pip install" can be used to get these libraries. 
+Also chromedriver is required. Download link for chrome driver: https://chromedriver.storage.googleapis.com/index.html?path=2.45/
+
 ### class mainPage()
 
 #### Methods:
