@@ -1,11 +1,7 @@
 # InstaCrawl
 A reliable Instagram crawler tool for non-private profiles
 
-
-
 -----------------------------------
-
-
 
 Two classes, one for profile page and the other for post page
 
@@ -21,9 +17,6 @@ This method returns latest 24 posts and their date of publishing if the profile 
 
 ##### jump_to_post(post_num):
 This method directs user to given post page and runs singlePost() class if the profile is not private.
-
-
-
 
 ### class sinlePost()
 
